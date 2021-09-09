@@ -22,7 +22,7 @@ function preload(){
 
   //load sound here
   cutSound = loadSound ("knifeSwoosh.mp3")
-  endSound = loadSound ("gameOver.mp3")
+  endSound = loadSound ("gameover.mp3")
 }
 
 
